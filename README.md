@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alena-martinkova
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Typescript/React
+- 🌱 I’m currently improving my Python skills
 - 📫 You can reach me via LinkedIn https://www.linkedin.com/in/alena-martinkova/ or check my page https://martinkova.dev
 
 <!---
